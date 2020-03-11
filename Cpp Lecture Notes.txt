@@ -1,0 +1,17 @@
+1.Program
+Organised list of intructions when executed will make the computer carry out a specific task
+2.Data Type
+Describes the kind of data that the variable can hold.
+3.Software
+An organised list of programs that when executed can make the computer behave in a pre defined way.
+4.Instructions.
+Command or an order given to a computer to perform a specific task.
+5.Execute.
+Means to read
+
+
+Conditonal Statements
+are statements that help to have an execution depending on the result of the conditon.
+There are basically two types of condtional statements.
+1.If statements
+2.Switch statements
